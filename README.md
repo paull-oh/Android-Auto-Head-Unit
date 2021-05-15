@@ -8,7 +8,7 @@ RaspberryPi 3B+
  4. Ribbon cables for camera and LCD
 
 Software used to build the project:
-1. Crankshaft OpenCarOS NG Alpha7.2 2021-02-09
+1. Crankshaft OpenCarOS NG Alpha7.2 2021-02-09 available here : https://github.com/opencardev/crankshaft
 2. Python Libraries
 
 
