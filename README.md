@@ -9,6 +9,6 @@ RaspberryPi 3B+
 
 Software used to build the project:
 1. Crankshaft OpenCarOS NG Alpha7.2 2021-02-09
-2. Python 
+2. Python Libraries
 
 
