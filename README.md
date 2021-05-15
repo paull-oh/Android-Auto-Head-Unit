@@ -11,4 +11,5 @@ Software used to build the project:
 1. Crankshaft OpenCarOS NG Alpha7.2 2021-02-09 available here : https://github.com/opencardev/crankshaft
 2. Python Libraries
 
+Here is a video link to the implementation: https://youtu.be/hLWBfuTDK08
 
